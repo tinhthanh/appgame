@@ -30,7 +30,10 @@
 </head>
 
 <body>
-  <h1> Ngon lanh </h1>
+  <h1> Ngon lanh lao 2 </h1>
+  <?php 
+    echo 'hay lam';
+   ?>
 
 </body>
 
